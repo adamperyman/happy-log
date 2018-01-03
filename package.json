@@ -1,6 +1,6 @@
 {
   "name": "happy-log",
-  "version": "0.2.0",
+  "version": "0.1.0",
   "description": "A simple server-side logger.",
   "main": "index.js",
   "repository": "https://github.com/x0bile/happy-log.git",
