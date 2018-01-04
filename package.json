@@ -1,11 +1,17 @@
 {
   "name": "happy-log",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple server-side logger.",
   "main": "index.js",
   "repository": "https://github.com/x0bile/happy-log.git",
   "author": "Adam Peryman <adam.peryman@gmail.com>",
-  "keywords": ["happy", "log", "logger", "simple", "server"],
+  "keywords": [
+    "happy",
+    "log",
+    "logger",
+    "simple",
+    "server"
+  ],
   "license": "MIT",
   "private": false,
   "scripts": {
