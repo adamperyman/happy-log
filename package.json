@@ -5,6 +5,7 @@
   "main": "index.js",
   "repository": "https://github.com/x0bile/happy-log.git",
   "author": "Adam Peryman <adam.peryman@gmail.com>",
+  "keywords": ["happy", "log", "logger", "simple", "server"],
   "license": "MIT",
   "private": false,
   "scripts": {
